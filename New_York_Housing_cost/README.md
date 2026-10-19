@@ -85,13 +85,13 @@ data_cleaning_and_EDA
 
 The distribution of initial costs by borough and job type shows and compares initial project costs across Manhattan, Brooklyn, Queens, and the Bronx, with points coloured by job type (A1, A2, and A3).
 
-![Initial Cost Distribution](figures/barchart_common_words.png)
+![Initial Cost Distribution](figures/scatterplot_price_per_year_borough_jobtype.png)
 
 ### Finding 2: Most Common Words in Job Descriptions by Borough
 
 This figure compares the most frequently mentioned words in housing permit job descriptions across New York City boroughs.
 
-![Initial Cost by Year and Borough](figures/initial_cost_by_year_borough.png)
+![Initial Cost by Year and Borough](figures/barchart_common_words.png)
 
 ## 08. Limitations
 
